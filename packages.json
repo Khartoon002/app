@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ultra",
+    "title": "ULTRA Package",
+    "price": "14000",
+    "summary": "Premium earnings, welcome bonus, daily tasks.",
+    "details": "Full details about ULTRA package, bonuses, and terms.",
+    "link": "https://magnuswebsite.site/packages/ultra"
+  },
+  {
+    "id": "plus",
+    "title": "PLUS Package",
+    "price": "9000",
+    "summary": "Great value with daily earnings.",
+    "details": "Full details about PLUS package, benefits, and terms.",
+    "link": "https://magnuswebsite.site/packages/plus"
+  }
+]
