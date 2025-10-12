@@ -1,3 +1,13 @@
 {
-  "telegram_invite_url": "https://t.me/magnus_supports
+  "telegram_invite_url": "https://t.me/your_channel",
+
+  "live": {
+    "period_minutes": 3,
+    "links": [
+      "https://notion.so/your-page",
+      "https://your-site.com/landing",
+      "https://youtube.com/@yourchannel",
+      "https://linktr.ee/yourhub"
+    ]
+  }
 }
