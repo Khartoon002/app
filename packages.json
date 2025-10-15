@@ -2,13 +2,13 @@
   "telegram": {
     "period_minutes": 0.1,
     "links": [
-      "https://et.tgstat.com/channel/@jiji_shop_ethiopia",
-      "https://t.me/magnus_channel_b",
-      "https://t.me/magnus_channel_c"
+      "https://magnuswebsite.com",
+      "https://magnuswebsite.com.ng",
+      "https://magnuswebsite.site"
     ]
   },
 
-  "telegram_invite_url": "https://t.me/magnus_channel_backup",
+  "telegram_invite_url": "https://et.tgstat.com/channel/@jiji_shop_ethiopia",
 
   "live": {
     "period_minutes": 3,
