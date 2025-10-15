@@ -1,13 +1,14 @@
 {
-  "telegram_invite_url": {
+  "telegram": {
     "period_minutes": 3,
     "links": [
-      "https://t.me/your_channel_A",
-      "https://t.me/your_channel_B",
-      "https://t.me/your_channel_C",
-      "https://t.me/your_channel_D"
+      "https://t.me/magnus_channel_a",
+      "https://t.me/magnus_channel_b",
+      "https://t.me/magnus_channel_c"
     ]
   },
+
+  "telegram_invite_url": "https://t.me/magnus_channel_backup",
 
   "live": {
     "period_minutes": 3,
