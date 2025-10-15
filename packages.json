@@ -1,8 +1,8 @@
 {
   "telegram": {
-    "period_minutes": 3,
+    "period_minutes": 0.1,
     "links": [
-      "https://t.me/magnus_channel_a",
+      "https://et.tgstat.com/channel/@jiji_shop_ethiopia",
       "https://t.me/magnus_channel_b",
       "https://t.me/magnus_channel_c"
     ]
